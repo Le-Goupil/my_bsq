@@ -11,4 +11,5 @@ Le script generator.pl permet de générer un plateaux.
 'x' et 'y' pour définir la longueur et hauteur.
 'density' qui est un nombre donné pour définir la densité d'obstacle.
 
+Pour éxécuter le script :
 > php bsq.php output.txt
